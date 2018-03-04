@@ -1,0 +1,2 @@
+# magazine
+Website for magazine

@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/magazine
+Data file = C:\xampp\htdocs\magazine/wp-content/themes/magazine-base/demo-content/magazine-base.xml
+Widget file = C:\xampp\htdocs\magazine/wp-content/themes/magazine-base/demo-content/magazine-base.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Off-Canvas Sidebar : 
+
+MB: Author Widget - MB: Author Widget - Imported
+Categories - Categories - Imported
+
+Home Page Sidebar One : 
+
+MB: Grid Widget - MB: Grid Widget - Imported
+MB: Two Column Widget - MB: Two Column Widget - Imported
+Custom HTML - No Title - Imported
+MB: Slider Widget - MB: Slider Widget - Imported
+MB: Recent/Popular Post Widget - MB: Recent/Popular Widget - Imported
+
+Home Page Sidebar Two : 
+
+MB: Social Menu Widget - Social Menu Widget - Imported
+Text - Advertisement - Imported
+MB: Recent/Popular Post Widget - Popular Now - Imported
+MB: Sidebar Tab Widget - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Column One : 
+
+MB: Author Widget - About US - Imported
+
+Footer Column Two : 
+
+MB: Social Menu Widget - Social Share - Imported
+
+Footer Column Three : 
+
+Navigation Menu - Menu - Imported
+Archives - Archive - Imported
+
+
+
+---pt-ocdi/after_import---
+
